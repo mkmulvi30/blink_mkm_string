@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="c%NK3YEWt,rLQvN4s+]:" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="pwS9p,(5c9MNXp{1j(!C"><value name="TIMES"><shadow type="math_whole_number" id="dZ)02h3))6U.Lg8{K9bX"><field name="NUM">5</field></shadow></value><statement name="DO"><block type="device_print_message" id="LzOgOt!SnX3Jh3@vsl=D"><value name="text"><shadow type="text" id="~+k,;XinSS7E^-KopIQ9"><field name="TEXT">M</field></shadow></value><next><block type="device_pause" id="u:S7$JYm|Pe--crF(XJM"><value name="pause"><shadow type="timePicker" id="VGb7/q4Gt-ka17%I@/cD"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="IaJTajq!(?Bxiwr5tSTL"><next><block type="device_pause" id="#Y^!SD$-U!6l8c.yfn!l"><value name="pause"><shadow type="timePicker" id="f=u)89+;fQ_[AJa5{j_W"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_show_leds" id="Ds[Ut((,:L7pty,Se)TK" disabled="true" x="313" y="128"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field></block></xml>
